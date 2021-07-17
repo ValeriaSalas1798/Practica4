@@ -1,0 +1,57 @@
+* {
+    margin: 5px;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+body {
+    background: rgb(176, 192, 202);
+    font-size: 18px;
+    color: rgb(3, 3, 3);
+}
+
+#container{
+    width: 1100px;
+    margin: auto;
+}
+
+#tema{
+    background: rgba(10, 80, 172, 0.76) ;
+    height: 70px;
+    width:1100px;
+    text-align:center;
+    padding: 12px;
+}
+
+footer{
+    width: 1100px;
+    margin: auto;
+}
+
+.table-scroll {
+    font-family: arial;
+    text-align: center;
+    font-size: 18px;
+    width: 1100px;
+    margin: auto;
+    background: rgb(255, 255, 255)
+    
+}
+
+.bd-table{
+    width: 100%;
+    border-radius: 10px;
+    border-width: 2px;
+    border-color: aqua;
+    color: blue;
+   
+}
+
+td{
+padding: 0 30px;
+}
+#demo{
+    margin: auto;
+}
+
